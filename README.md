@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👨‍💻 Hemal Pansuriya - Web Developer
 
-<!--
-**hemal27pansuriya/hemal27pansuriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate web developer specializing in both front-end and back-end technologies. Creating seamless digital experiences with clean and efficient code.
 
-Here are some ideas to get you started:
+## 📚 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-end: HTML, CSS, JavaScript, React, Redux, Bootstrap
+- Back-end: JavaScript, Node.js, Express.js, TypeScript, Nest.js, Socket.io, GraphQl
+- Databases: MongoDB, MySql, Redis, Neo4j
+- Version Control: Git, GitHub, GitLab, BitBucket
+- Other: RESTful APIs, Responsive Design
+
+## 🌍 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/hemal-pansuriya-750a22203/)
+- [Personal Website](https://hemal.netlify.app/)
+
+Feel free to connect and explore my work. Open to collaborations and always ready to discuss exciting projects!
+
+Happy coding! 🚀
